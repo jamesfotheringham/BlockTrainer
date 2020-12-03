@@ -1,0 +1,22 @@
+{
+  "name": "blocktrainer",
+  "version": "1.0.0",
+  "description": "Cycling habit builder interacting with Strava data and smart contract deployed on Ropsten Ethereum network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesfotheringham/BlockTrainer.git"
+  },
+  "author": "James Fotheringham, Alex Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesfotheringham/BlockTrainer/issues"
+  },
+  "homepage": "https://github.com/jamesfotheringham/BlockTrainer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
